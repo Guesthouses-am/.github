@@ -28,7 +28,7 @@ All of our projects are licensed under the Apache License 2.0: LICENSE.
 
 ## Contact Us
 
-If you have any questions or need assistance, please feel free to contact us: [Contact](https://github.com/Guesthouses-am/.github/profile/CONTACT.md)
+If you have any questions or need assistance, please feel free to contact us: [Contact](https://github.com/Guesthouses-am/.github/blob/main/profile/CONTACT.md)
 
 ## Stay Connected
 
